@@ -8,8 +8,6 @@ spring:
           uri: http://localhost:8081
           predicates:
             - Path=/health/**, /auth/**
-          filters:
-            - StripPrefix=0
 management:
   endpoints:
     web:
