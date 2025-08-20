@@ -11,7 +11,7 @@ spring:
           filters:
             - StripPrefix=0
 management:
-  endpoint:
+  endpoints:
     web:
       exposure:
         include: "*"
