@@ -1,0 +1,8 @@
+greeting: "hello from config-server(github)"
+server:
+  port: 8081
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

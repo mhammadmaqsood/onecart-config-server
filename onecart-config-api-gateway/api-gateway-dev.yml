@@ -1,0 +1,17 @@
+server:
+  port: 8080
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: auth-pass-through
+          uri: http://localhost:8081
+          predicates:
+            - Path=/health/**, /auth/**
+          filters:
+            - StripPrefix=0
+management:
+  endpoint:
+    web:
+      exposure:
+        include: "*"
