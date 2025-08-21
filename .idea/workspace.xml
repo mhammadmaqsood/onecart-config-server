@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d289f3c-4883-4176-a0d0-615c4a296786" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onecart-config-api-gateway/api-gateway-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/onecart-config-api-gateway/api-gateway-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onecart-config-auth-service/auth-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/onecart-config-auth-service/auth-service-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="1d289f3c-4883-4176-a0d0-615c4a296786" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +28,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Clients/onecart/onecart-config-server",
+    "last_opened_file_path": "E:/Clients/onecart/onecart-config-server/onecart-config-server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +56,7 @@
       <workItem from="1755656399771" duration="161000" />
       <workItem from="1755656614671" duration="1230000" />
       <workItem from="1755663249795" duration="1974000" />
+      <workItem from="1755760273681" duration="39000" />
     </task>
     <servers />
   </component>
